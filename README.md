@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img height="200" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2kxbTJjM2xhODh5cnd4bWs5NW00ZTZqcW92eWRndnhyanJzd2JjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btNhMBytxAM6YBa/giphy.gif"  />
+  <img height="350" width="700" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2kxbTJjM2xhODh5cnd4bWs5NW00ZTZqcW92eWRndnhyanJzd2JjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btNhMBytxAM6YBa/giphy.gif"  />
 </div>
 
 ###
