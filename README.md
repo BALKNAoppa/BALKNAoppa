@@ -61,7 +61,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BALKNAoppa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BALKNAoppa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="120" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=BALKNAoppa&theme=tokyonight&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="132" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=BALKNAoppa&theme=tokyonight&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="131" alt="trophy graph"  />
 </div>
 
 ###
