@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is BAT-ERDENE  BATBAYAR and I'm from 🏞️ Mongolia 🏞️</p>
+<p align="center">"Hello, my name is BAT-ERDENE BATBAYAR, and I’m from 🏞️ Mongolia 🏞️. I am passionate about Web Development and always eager to learn and grow. Looking forward to connecting!"</p>
 
 ###
 
