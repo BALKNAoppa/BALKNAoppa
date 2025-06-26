@@ -52,13 +52,13 @@
 
 ###
 
-<div align="start">
+<div align="center">
   <img src="https://profile-counter.glitch.me/BALKNAoppa/count.svg?"  />
 </div>
 
 ###
 
-<div align="start">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BALKNAoppa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="105" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BALKNAoppa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="105" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=BALKNAoppa&theme=tokyonight&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="131" alt="trophy graph"  />
@@ -70,10 +70,10 @@
 
 ###
 
-<h1 align="start">I'm trying so hard af 💤💤💤</h1>
+<h1 align="center">I'm trying so hard af 💤💤💤</h1>
 
 ###
 
-<div align="start">
+<div align="center">
   <img height="350" width="700" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2kxbTJjM2xhODh5cnd4bWs5NW00ZTZqcW92eWRndnhyanJzd2JjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btNhMBytxAM6YBa/giphy.gif"  />
 </div>
